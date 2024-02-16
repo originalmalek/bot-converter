@@ -1,3 +1,6 @@
+# Bot Converter
+Async bot converter with AioHttp and AioGram
+
 ## How to run
 1. Clone the project
 2. Install requirements.txt
